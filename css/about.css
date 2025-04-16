@@ -1,0 +1,43 @@
+.gjs-row {
+	display: flex;
+	justify-content: flex-start;
+	align-items: stretch;
+	flex-wrap: nowrap;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.gjs-cell {
+	min-height: 75px;
+	flex-grow: 1;
+	flex-basis: 100%;
+}
+
+#i1w01xl {
+	background-image: url(../image/screen2.jpg);
+	background-size: cover;
+	height: 1000px;
+}
+
+#i2ozk1c {
+	background-image: url(../image/screen12.jpg);
+	background-size: cover;
+}
+
+#ixtk6d3 {
+	background-image: url(../image/screen5.jpg);
+	background-size: cover;
+}
+
+#ingfl46 {
+	background-image: url(../image/screen11.jpg);
+	background-size: cover;
+}
+
+@media (max-width: 768px) {
+	.gjs-row {
+		flex-wrap: wrap;
+	}
+}
