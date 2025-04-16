@@ -5,6 +5,7 @@
 </p>
 
 [Live Demo](http://insight-software.darkjs.com/)
+<br>
 This is a [DarkJS](https://darkjs.com/) template developed with
 HTML, CSS and
 JavaScript.
