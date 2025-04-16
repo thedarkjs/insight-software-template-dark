@@ -4,6 +4,7 @@
   <img src="screenshot-software.jpg" />
 </p>
 
+[Live Demo](http://insight-software.darkjs.com/)
 This is a [DarkJS](https://darkjs.com/) template developed with
 HTML, CSS and
 JavaScript.
